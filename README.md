@@ -5,4 +5,4 @@ React Native App Skeleton with Animated TabBar Included with (LoginForm + Regist
 Inline-style: 
 ![alt text](https://github.com/TaimoorHassanMalik/R-N-Animated-TabBar/blob/master/assets/Screenshot_2019-10-30-11-05-41.png "Logo Title Text 1") -->
 
-<img src="assets/Screenshot_2019-10-30-11-05-41.png" width="50">
+<img src="assets/Screenshot_2019-10-30-11-05-41.png" width="100">
